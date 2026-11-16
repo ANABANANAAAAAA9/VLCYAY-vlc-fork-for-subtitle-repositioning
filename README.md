@@ -1,5 +1,5 @@
 # VLCYAY
-Introducing VLCYAY, a community fork of VLC for Android with improved subtitle positioning controls.
+Introducing VLCYAY, a community fork of VLC for Android with improved subtitle positioning controls. 
 
 Hello everyone. So, I hated the fact that the android version of VLC did not allow subtitle repositioning, just like the pc one does. That's why I made this fork. To use it you just need to download the APK and install VLCYAY on your Android device. 
 
