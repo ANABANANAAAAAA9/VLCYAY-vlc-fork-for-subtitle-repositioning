@@ -7,7 +7,7 @@ This fork is open source, so, be you a developer or simply someone curious, plea
 
 Disclaimer: I relied heavily on AI to make all the coding. I don't plan to release any new updates. If anyone wants to grab the code and take the project over I am totally cool with it.
 
-Anyway, hope it helps someone. Personally, I felt like it was the only thing keeping mobile VLC from being the perfect video player. Now, it is finally fixed!
+Anyway, hope it helps someone. Personally, I felt like it was the only thing keeping mobile VLC from being the perfect video player. Now it is finally fixed!
 
 Features
 Four minimalist directional buttons: Up, Down, Left and Right.
